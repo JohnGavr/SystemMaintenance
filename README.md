@@ -24,9 +24,9 @@
 
 Για να εκτελέσετε το script μπορείτε να:
 
-1. να τρεξετε το script ως εξής: bash system-maint.sh
-2. να κανετε το script, εκτελεσημο με την εντολη: chmod +x system-maint.sh
-   και να το εκτελεσετε ως εξης: ./system-maint.sh
+1. να τρεξετε το script ως εξής: ```bash system-maint.sh```
+2. να κανετε το script, εκτελεσημο με την εντολη: ```chmod +x system-maint.sh```
+   και να το εκτελεσετε ως εξης: ```./system-maint.sh```
 
 ### Credits
 
