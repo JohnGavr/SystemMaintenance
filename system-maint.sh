@@ -113,8 +113,8 @@ do
            delete_unused_packages
            disable_unused_packages_deletion=1 ;;
         "Έξοδος")
-            echo "Έξοδος"
-            exit 0
+           sudo apt-get update && sudo apt-get -y upgrade
+           exit 0
     ;;
   *)
   echo "Ξανά..."
